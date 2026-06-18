@@ -117,16 +117,18 @@ const yafiazka = {
   <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yafiazka&theme=minimal&hide_border=true&area=true&color=2F81F7&line=2F81F7" />
 </picture>
 
-<br/><br/>
+<br/>
+
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=yafiazka&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+    <img src="https://github-trophies.devomb.com/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
   </picture>
 </p>
-<br/>
+<br/><br/>
+
 📈 Contribution Snake
 
 <picture>
