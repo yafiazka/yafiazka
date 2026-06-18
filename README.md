@@ -121,15 +121,13 @@ const yafiazka = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
     <img src="https://github-profile-trophy.vercel.app/?username=yafiazka&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
   </picture>
 </p>
-
 <br/>
-
-## 📈 Contribution Snake
+📈 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake-dark.svg" />
@@ -137,7 +135,7 @@ const yafiazka = {
   <img align="center" src="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.style.display='none'"/>
 </picture>
 
-> 💡 Animasi ular ini "memakan" kotak kontribusi GitHub Anda. Setup-nya pakai GitHub Action — lihat panduan di bagian bawah README.
+💡 Animasi ular ini "memakan" kotak kontribusi GitHub Anda. Setup-nya pakai GitHub Action — lihat panduan di bagian bawah README.
 
 <br/>
 
