@@ -95,9 +95,9 @@ const yafiazka = {
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=2F81F7&icon_color=2F81F7&text_color=24292f&bg_color=ffffff" />
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=2F81F7&icon_color=2F81F7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=24292f&bg_color=ffffff" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=yafiazka&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=2F81F7" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yafiazka&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&langs_count=8" />
@@ -134,7 +134,7 @@ const yafiazka = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img align="center" src="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.style.display='none'"/>
 </picture>
 
 > 💡 Animasi ular ini "memakan" kotak kontribusi GitHub Anda. Setup-nya pakai GitHub Action — lihat panduan di bagian bawah README.
@@ -180,7 +180,7 @@ Late Night Debugging
 </tr>
 </table>
 
-<br/>
+<!-- <br/>
 
 ## 🌐 Featured Projects
 
@@ -207,7 +207,7 @@ Deskripsi singkat aplikasi mobile menggunakan Flutter dengan integrasi REST API.
 </tr>
 </table>
 
-<p align="center"><i>👉 Ganti dengan proyek nyata Anda, lengkap dengan link repo & demo</i></p>
+<p align="center"><i>👉 Ganti dengan proyek nyata Anda, lengkap dengan link repo & demo</i></p> -->
 
 <br/>
 
