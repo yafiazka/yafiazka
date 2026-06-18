@@ -137,7 +137,7 @@ const yafiazka = {
   <img align="center" src="https://raw.githubusercontent.com/yafiazka/yafiazka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.style.display='none'"/>
 </picture>
 
-💡 Animasi ular ini "memakan" kotak kontribusi GitHub Anda. Setup-nya pakai GitHub Action — lihat panduan di bagian bawah README.
+💡 Animasi ular ini "memakan" kotak kontribusi GitHub Anda.
 
 <br/>
 
@@ -225,14 +225,6 @@ Deskripsi singkat aplikasi mobile menggunakan Flutter dengan integrasi REST API.
 </p>
 
 <br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" />
-  </picture>
-</p>
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/yafiazka">yafiazka</a> with passion for clean code</i>
