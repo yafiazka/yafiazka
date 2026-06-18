@@ -44,7 +44,7 @@ const yafiazka = {
 - 🌱 Sedang mendalami **best practices architecture & API development**
 - 👯 Terbuka untuk kolaborasi di proyek **open source maupun freelance**
 - 💬 Tanyakan saya soal **Laravel, PHP, REST API, atau Mobile Development**
-- 📫 Cara menghubungi saya: **your.email@example.com**
+- 📫 Cara menghubungi saya: **yafiazka19@gmail.com**
 - 📍 Berbasis di **Indonesia**
 
 <br/>
